@@ -1,5 +1,7 @@
 # Shiver Compiler
 
+Note: this version of Shiver Compiler is deprecated.
+
 This program can compile Shiver code. Currently, there are no 
 code generation modules as the parser is not yet finished.
 
